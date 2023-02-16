@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-ProsCons/static/css/main.01bae736.css",
+    "main.js": "/my-ProsCons/static/js/main.7973c898.js",
+    "index.html": "/my-ProsCons/index.html",
+    "main.01bae736.css.map": "/my-ProsCons/static/css/main.01bae736.css.map",
+    "main.7973c898.js.map": "/my-ProsCons/static/js/main.7973c898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01bae736.css",
+    "static/js/main.7973c898.js"
+  ]
+}
